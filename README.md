@@ -1,0 +1,1 @@
+#Original game implemented a simple JPanel which had been drawn once with multiple static fields. Wanting to implement a reset using the MVC patters multiple Jpanels can be introduced. Still working on backend database to store scores as well as implemented a speed up function
